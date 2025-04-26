@@ -5,8 +5,10 @@ This is the context switch assembly code from xv6. In C. It's declared as
 void swtch(struct context** old, struct context* new);
 ```
 
-**%esp**: stack pointer
-
+- **%esp**: stack pointer
+- **%ebp**: base pointer
+- **%ebx**, **%ecx**, **%edx**, **%esi**, **%edi**: general-purpose registers.
+- **%eax**: is used temporarily during switching.
 
 When you switch from one process to another, the OS must:-
 1. Save all important CPU registers for the current process.
