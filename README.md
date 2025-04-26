@@ -16,5 +16,9 @@ The goal is to understand how operating system mechanisms like system calls and 
 
 1. Compile the program:
    ```bash
+<<<<<<< HEAD
    gcc benchmark.c -o main
 
+=======
+      gcc benchmark.c -o main
+>>>>>>> b7fae81 (context switch)
