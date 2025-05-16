@@ -20,5 +20,7 @@ The goal is to understand how operating system mechanisms like system calls and 
 ```
 
 
-
+# NOTES ABOUT THE REPO
+It's a personal notes and my efforts to understand OS concepts.
 to be continued..
+ه
