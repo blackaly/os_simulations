@@ -1,6 +1,6 @@
 # OS Operations Simulation
 
-This project is a simple attempt to simulate basic operating system operations.
+This project is a simple attempt to simulate basic operating system operations, such as system calls, memory management, etc..
 
 
 ## Purpose
@@ -12,3 +12,6 @@ The goal is to understand how operating system mechanisms like system calls and 
 It's a personal notes and my efforts to understand OS concepts.
 to be continued..
 ه
+
+# UPCOMING
+- Build an OS that simulate the booting operation.
