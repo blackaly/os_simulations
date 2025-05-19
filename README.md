@@ -10,7 +10,7 @@ The idea is inspired by `lmbench`, but this is a minimal and educational version
 
 ## Purpose
 
-The goal is to understand how operating system mechanisms like system calls and context switches work at a low level, and how much overhead they introduce.
+The goal is to understand how operating system mechanisms like system calls and context switches work at a low level, and how much overhead they introduce. I will try also to organize the repo as possible.
 
 ## How to Use
 
