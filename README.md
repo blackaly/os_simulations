@@ -14,4 +14,4 @@ to be continued..
 ه
 
 # UPCOMING
-- Build an OS that simulate the booting operation.
+- Build an OS that simulate the booting operation. (Done)
